@@ -4,7 +4,7 @@ D-Foods is a Swiggy-inspired food delivery web application built using **React**
 The project focuses on understanding **real-world React workflows**, API handling, routing, and deployment using **GitHub Pages**.
 
 🌐 **Live Demo**:  
-https://sureshcod.github.io/projectReact/
+https://sureshcod.github.io/foodApp/
 
 ---
 
